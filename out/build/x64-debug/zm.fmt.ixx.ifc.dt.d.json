@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\source\\repos\\format\\format\\zm.fmt.ixx",
+        "ProvidedModule": "zm.fmt",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "std",
+                "BMI": "D:\\source\\repos\\Format\\out\\build\\x64-debug\\std.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

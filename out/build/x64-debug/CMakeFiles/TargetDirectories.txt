@@ -1,0 +1,6 @@
+D:/source/repos/Format/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/source/repos/Format/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/source/repos/Format/out/build/x64-debug/Format/CMakeFiles/core.dir
+D:/source/repos/Format/out/build/x64-debug/Format/CMakeFiles/tests.dir
+D:/source/repos/Format/out/build/x64-debug/Format/CMakeFiles/edit_cache.dir
+D:/source/repos/Format/out/build/x64-debug/Format/CMakeFiles/rebuild_cache.dir

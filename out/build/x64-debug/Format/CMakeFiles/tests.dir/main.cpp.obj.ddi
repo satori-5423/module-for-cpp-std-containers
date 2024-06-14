@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Format\\CMakeFiles\\tests.dir\\main.cpp.obj",
+            "outputs": [
+                "D:\\source\\repos\\Format\\out\\build\\x64-debug\\vc140.pdb",
+                "Format\\CMakeFiles\\tests.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                },
+                {
+                    "logical-name": "zm.fmt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Format\\CMakeFiles\\core.dir\\zm.wrap.ctn.ixx.obj",
+            "outputs": [
+                "D:\\source\\repos\\Format\\out\\build\\x64-debug\\vc140.pdb",
+                "Format\\CMakeFiles\\core.dir\\zm.wrap.ctn.ixx.obj.ddi",
+                "zm.wrap.ctn.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "zm.wrap.ctn",
+                    "source-path": "d:\\source\\repos\\format\\format\\zm.wrap.ctn.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                }
+            ]
+        }
+    ]
+}

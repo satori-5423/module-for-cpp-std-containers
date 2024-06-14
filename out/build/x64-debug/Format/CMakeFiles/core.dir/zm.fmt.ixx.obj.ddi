@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Format\\CMakeFiles\\core.dir\\zm.fmt.ixx.obj",
+            "outputs": [
+                "D:\\source\\repos\\Format\\out\\build\\x64-debug\\vc140.pdb",
+                "Format\\CMakeFiles\\core.dir\\zm.fmt.ixx.obj.ddi",
+                "zm.fmt.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "zm.fmt",
+                    "source-path": "d:\\source\\repos\\format\\format\\zm.fmt.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                }
+            ]
+        }
+    ]
+}

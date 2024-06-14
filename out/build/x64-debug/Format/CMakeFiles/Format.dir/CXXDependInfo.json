@@ -1,0 +1,40 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"Format/CMakeFiles/Format.dir/zm.fmt.ixx.obj" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "",
+			"source" : "D:/source/repos/Format/Format/zm.fmt.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PRIVATE"
+		},
+		"Format/CMakeFiles/Format.dir/zm.wrap.ctn.ixx.obj" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "",
+			"source" : "D:/source/repos/Format/Format/zm.wrap.ctn.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PRIVATE"
+		}
+	},
+	"dir-cur-bld" : "D:/source/repos/Format/out/build/x64-debug/Format",
+	"dir-cur-src" : "D:/source/repos/Format/Format",
+	"dir-top-bld" : "D:/source/repos/Format/out/build/x64-debug",
+	"dir-top-src" : "D:/source/repos/Format",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/source/repos/Format/out/build/x64-debug/Format/CMakeFiles/Format.dir"
+}

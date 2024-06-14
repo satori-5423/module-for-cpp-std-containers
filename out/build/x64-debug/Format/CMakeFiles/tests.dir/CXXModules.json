@@ -1,0 +1,32 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"std" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "Format\\CMakeFiles\\core.dir\\std.ifc"
+		},
+		"zm.fmt" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "Format\\CMakeFiles\\core.dir\\zm.fmt.ifc"
+		},
+		"zm.wrap.ctn" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "Format\\CMakeFiles\\core.dir\\zm.wrap.ctn.ifc"
+		}
+	},
+	"usages" : 
+	{
+		"zm.fmt" : 
+		[
+			"std"
+		],
+		"zm.wrap.ctn" : 
+		[
+			"std"
+		]
+	}
+}

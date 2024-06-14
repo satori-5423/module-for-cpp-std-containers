@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build Format\CMakeFiles\tests.dir\main.cpp.obj: dyndep | Format\CMakeFiles\core.dir\std.ifc Format\CMakeFiles\core.dir\zm.fmt.ifc
+
