@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\source\\repos\\format\\format\\zm.fmt.ixx",
+        "ProvidedModule": "zm.fmt",
+        "ImportedModules": [
+            "std"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

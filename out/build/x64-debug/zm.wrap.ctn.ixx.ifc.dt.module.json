@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\source\\repos\\format\\format\\zm.wrap.ctn.ixx",
+        "ProvidedModule": "zm.wrap.ctn",
+        "ImportedModules": [
+            "std"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

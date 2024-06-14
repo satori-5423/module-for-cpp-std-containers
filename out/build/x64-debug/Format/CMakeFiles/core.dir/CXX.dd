@@ -1,0 +1,10 @@
+ninja_dyndep_version = 1.0
+build Format\CMakeFiles\core.dir\std.ixx.obj | Format\CMakeFiles\core.dir\std.ifc: dyndep
+  restat = 1
+
+build Format\CMakeFiles\core.dir\zm.fmt.ixx.obj | Format\CMakeFiles\core.dir\zm.fmt.ifc: dyndep | Format\CMakeFiles\core.dir\std.ifc
+  restat = 1
+
+build Format\CMakeFiles\core.dir\zm.wrap.ctn.ixx.obj | Format\CMakeFiles\core.dir\zm.wrap.ctn.ifc: dyndep | Format\CMakeFiles\core.dir\std.ifc
+  restat = 1
+

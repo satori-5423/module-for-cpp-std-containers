@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build Format\CMakeFiles\Format.dir\zm.fmt.ixx.obj | Format\CMakeFiles\Format.dir\zm.fmt.ifc: dyndep
+  restat = 1
+
+build Format\CMakeFiles\Format.dir\zm.wrap.ctn.ixx.obj | Format\CMakeFiles\Format.dir\zm.wrap.ctn.ifc: dyndep
+  restat = 1
+

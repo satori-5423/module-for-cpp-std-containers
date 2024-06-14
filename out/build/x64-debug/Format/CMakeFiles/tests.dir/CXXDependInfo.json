@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/source/repos/Format/out/build/x64-debug/Format",
+	"dir-cur-src" : "D:/source/repos/Format/Format",
+	"dir-top-bld" : "D:/source/repos/Format/out/build/x64-debug",
+	"dir-top-src" : "D:/source/repos/Format",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"D:/source/repos/Format/out/build/x64-debug/Format/CMakeFiles/core.dir"
+	],
+	"module-dir" : "D:/source/repos/Format/out/build/x64-debug/Format/CMakeFiles/tests.dir"
+}
